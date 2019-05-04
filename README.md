@@ -11,5 +11,5 @@ docker run -p 8000:8000 -d flask-docker-demo-small:0.0.1
 git init
 git add .
 git commit -m "first commit"
-git remote add origin https://github.com/<username>/flask-docker-demo.git
+git remote add origin https://github.com/dtrippas/flask-docker-demo.git
 git push -u origin master
