@@ -13,3 +13,5 @@ git add .
 git commit -m "first commit"
 git remote add origin https://github.com/dtrippas/flask-docker-demo.git
 git push -u origin master
+
+# trigger build by committing / pushing
